@@ -10,9 +10,9 @@
         3. Provide insights to support planning and resource allocation
 
 ## 🛠️ Tools & Technologies
-        -        Python – Data cleaning and preprocessing
-        -        SQL – Data storage, transformation, and querying
-        -        Power BI – Data visualisation and dashboard development
+        - Python – Data cleaning and preprocessing
+        - SQL – Data storage, transformation, and querying
+        - Power BI – Data visualisation and dashboard development
         
 
 ## ⚙️ Methodology
