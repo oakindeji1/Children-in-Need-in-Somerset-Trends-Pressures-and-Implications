@@ -21,5 +21,6 @@ Data Quality
 
 DAX USED
 Total Anypoint Child = FORMAT(SUM(children_in_need[anypoint_child_num]), "#,###")
+
 Total Anypoint Episodes = FORMAT(SUM(children_in_need[anypoint_episodes_num]), "#,###")
 
