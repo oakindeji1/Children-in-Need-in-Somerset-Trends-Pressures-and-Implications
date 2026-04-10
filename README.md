@@ -16,4 +16,10 @@ Report
 Key Take Away
 <img width="1318" height="826" alt="image" src="https://github.com/user-attachments/assets/c16f71c9-ac8b-4e10-8b58-518f95bcb5f8" />
 
+Data Quality
+<img width="1717" height="824" alt="image" src="https://github.com/user-attachments/assets/9b77641d-bd5d-44de-bffd-73b2dce5ce81" />
+
+DAX USED
+Total Anypoint Child = FORMAT(SUM(children_in_need[anypoint_child_num]), "#,###")
+Total Anypoint Episodes = FORMAT(SUM(children_in_need[anypoint_episodes_num]), "#,###")
 
